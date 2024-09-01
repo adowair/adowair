@@ -11,5 +11,5 @@ I care about making technology accessible, and using it for good.
 
 ### Talks
 
-- 🧊 [KubeCon EU 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/): [Language Inclusivity in Tech: a Call to Action](https://sched.co/1YeLO)
 - ✍️ [Write The Docs Atlantic 2024](https://www.writethedocs.org/conf/atlantic/2024/): [Lessions Learned From Localizing Kubernetes' Docs](https://www.writethedocs.org/conf/atlantic/2024/speakers/#speaker-ali-dowair-what-s-in-a-word-lessons-from-localizing-kubernetes-documentation-to-arabic-ali-dowair)
+- 🧊 [KubeCon EU 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/): [Language Inclusivity in Tech: a Call to Action](https://sched.co/1YeLO)
