@@ -7,6 +7,7 @@ I care about making technology accessible, and using it for good.
 ### Contributions
 
 - Maintainer of the Kubernetes Website Arabic Localization
+- Maintainer of the CNCF Glossary in Arabic
 
 ### Talks
 
