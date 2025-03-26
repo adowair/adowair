@@ -11,5 +11,6 @@ I care about making technology accessible, and using it for good.
 
 ### Talks
 
+- 🏀 [StrongDM Access Madness 2025](https://strongdm.com): [Playbooks for Kubernetes Access Control](https://www.strongdm.com/webinar/access-madness-playbooks-for-kubernetes-access-control)
 - 🌐 [Write The Docs Atlantic 2024](https://www.writethedocs.org/conf/atlantic/2024/): [Lessons Learned From Localizing Kubernetes' Docs](https://www.writethedocs.org/conf/atlantic/2024/speakers/#speaker-ali-dowair-what-s-in-a-word-lessons-from-localizing-kubernetes-documentation-to-arabic-ali-dowair) ([📺 Youtube](https://www.youtube.com/watch?v=HY3LZOQqdig&list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW&index=9))
 - 📢 [KubeCon EU 2024](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/): [Language Inclusivity in Tech: a Call to Action](https://sched.co/1YeLO)
